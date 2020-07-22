@@ -1,0 +1,13 @@
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.exe
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.deps.json
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.runtimeconfig.json
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.runtimeconfig.dev.json
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.dll
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\bin\Debug\netcoreapp3.1\KarateChopKata.pdb
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.csprojAssemblyReference.cache
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.AssemblyInfoInputs.cache
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.AssemblyInfo.cs
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.csproj.CoreCompileInputs.cache
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.dll
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.pdb
+C:\Users\jonathanwilliamson\source\repos\JonW12\KarateChopKata\KarateChopKata\obj\Debug\netcoreapp3.1\KarateChopKata.genruntimeconfig.cache
